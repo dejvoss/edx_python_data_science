@@ -21,7 +21,7 @@ Author: D. Osiecki
 11. dataset_part_2.csv - Data file created in the Jupyter Notebook from point 5.
 12. dataset_part_3.csv - Data file created in the Jupyter Notebook from point 7.
 13. spacex_dash_app.py - Python code with the interactive dashboard which shows the successful launches on all sites and the correlation between the launch output and the payload mass.
-14. spacex_launch_dash.csv - Data needed for the dashboard from previous point.
+14. spacex_launch_dash.csv - Data needed for the dashboard from the previous point.
 
 ## Executive Summary
 In this project, we embarked on a comprehensive analysis to determine the pricing of rocket launch based on the reusability of the first stage of launch. The analysis is based on the history of the SpaceX Falcon 9 launches. The methodologies employed can be summarized as follows: ​
@@ -32,7 +32,7 @@ Machine Learning Model – to predict the reusability of Falcon 9's first stage,
 
 The analysis yielded noteworthy results. The machine learning model demonstrated high accuracy in predicting the recoverability of the first stage, providing Space Y with a valuable tool for competitive strategy. ​
 
-​## Introduction
+## Introduction
 
 In the ever-evolving landscape of space exploration and commercialization, our project stands at the intersection of innovation and competition. The commercial space age has dawned, and companies like SpaceX have made space travel more accessible than ever before. As we embark on this endeavor, it's essential to understand the dynamic context that has shaped our mission. ​
 
