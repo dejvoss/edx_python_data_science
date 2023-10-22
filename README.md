@@ -33,6 +33,7 @@ Machine Learning Model – to predict the reusability of Falcon 9's first stage,
 The analysis yielded noteworthy results. The machine learning model demonstrated high accuracy in predicting the recoverability of the first stage, providing Space Y with a valuable tool for competitive strategy. ​
 
 ​## Introduction
+
 In the ever-evolving landscape of space exploration and commercialization, our project stands at the intersection of innovation and competition. The commercial space age has dawned, and companies like SpaceX have made space travel more accessible than ever before. As we embark on this endeavor, it's essential to understand the dynamic context that has shaped our mission. ​
 
 SpaceX, under the visionary leadership of Elon Musk, has achieved remarkable feats, from sending spacecraft to the International Space Station to establishing the revolutionary Starlink satellite internet constellation. Their cost-effective approach to space launches, epitomized by the Falcon 9 rocket, has disrupted the industry. SpaceX's ability to recover and reuse the first stage of their rockets has been a game-changer, significantly reducing launch costs. ​
